@@ -1,0 +1,3 @@
+# pdf-barcode-label-gen
+Generate multiple EAN13 barcode labels in PDF from ERPNext's Production Planning Tool.csv files
+More details to be added soon...
